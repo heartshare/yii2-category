@@ -1,0 +1,22 @@
+{
+    "name": "yii2-category/yii2-category",
+    "description": "Crud category, crud tree category ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," category"," tree category"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Amstr1k",
+            "email": "sferryf@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "creocoder/yii2-nested-set-behavior": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "amstr1k\\category\\": ""
+        }
+    }
+}
