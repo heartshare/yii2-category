@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2-category/yii2-category "*"
+php composer.phar require --prefer-dist amstr1k/yii2-category "*"
 ```
 
 or add
 
 ```
-"yii2-category/yii2-category": "*"
+"amstr1k/yii2-category": "*"
 ```
 
 to the require section of your `composer.json` file.
